@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingStarted", "GettingSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FavoriteFood", "..\FavoriteFood\FavoriteFood.csproj", "{B3D7C14B-8D02-4B2A-BDF5-C02A586E2C22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordAuthentication", "..\PasswordAuthentication\PasswordAuthentication.csproj", "{E984D21F-7107-4B8F-9398-4509ECA0D1DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B3D7C14B-8D02-4B2A-BDF5-C02A586E2C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3D7C14B-8D02-4B2A-BDF5-C02A586E2C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3D7C14B-8D02-4B2A-BDF5-C02A586E2C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E984D21F-7107-4B8F-9398-4509ECA0D1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E984D21F-7107-4B8F-9398-4509ECA0D1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E984D21F-7107-4B8F-9398-4509ECA0D1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E984D21F-7107-4B8F-9398-4509ECA0D1DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
