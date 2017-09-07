@@ -10,6 +10,16 @@ namespace PasswordAuthentication
     {
         static void Main(string[] args)
         {
+            var username = "root";
+            var password = "letmein";
+
+            Console.WriteLine("Input a username : " + );
+            var inputName = 
+            
+            if(username == password)
+            {
+
+            }
 
         }
     }
