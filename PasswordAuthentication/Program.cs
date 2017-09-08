@@ -13,13 +13,38 @@ namespace PasswordAuthentication
             var username = "root";
             var password = "letmein";
 
-            Console.WriteLine("Input a username : " + );
-            var inputName = 
             
-            if(username == password)
+            int correct = 0;
+            int wrong = 0;
+            for (int tries = 0; tries < 3 || correct == 1;tries++)
             {
+                Console.Write("Input a username : ");
+                var inputName = Console.ReadLine();
+                Console.Write("Input a Password : " );
+                var inputPass = Console.ReadLine();
 
+                if (username == inputName && inputPass == password)
+                {
+                    correct = 1;
+                    Console.WriteLine("Username and Password authenticated .. you may proceed");
+                    break;
+                }
+                else
+                {
+                    
+                    wrong++;
+         
+                }
+                if (tries == 2)
+                {
+                    Console.WriteLine("Too many incorrect login attempts!  Try again later!");
+                    break;
+
+                }
             }
+            
+                
+            
 
         }
     }
