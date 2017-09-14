@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindrome\obj\Debug\Palindrome.pdb
