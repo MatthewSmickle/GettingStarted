@@ -3,3 +3,4 @@ C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindrome\bin\De
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindrome\bin\Debug\Palindrome.pdb
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindrome\obj\Debug\Palindrome.exe
 C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\GettingStarted\Palindrome\obj\Debug\Palindrome.csprojResolveAssemblyReference.cache
