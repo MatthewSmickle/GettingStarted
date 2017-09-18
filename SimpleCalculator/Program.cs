@@ -41,22 +41,23 @@ namespace ConsoleApp2
 
            if(Input.Contains("+"))
             {
-                double result = NewFirst + NewSecond;
+
+                double result = (double)NewFirst + (double)NewSecond;
                 Console.WriteLine("Result: "+ Input + " = "+result);
             }
             if (Input.Contains("*"))
             {
-                double result = NewFirst * NewSecond;
+                double result = (double)NewFirst * (double)NewSecond;
                 Console.WriteLine("Result: " + Input + " = " + result);
             }
             if (Input.Contains("-"))
             {
-                double result = NewFirst - NewSecond;
+                double result = (double)NewFirst - (double)NewSecond;
                 Console.WriteLine("Result: " + Input + " = " + result);
             }
             if (Input.Contains("/"))
             {
-                double result = NewFirst / NewSecond;
+                double result = (double)NewFirst / (double)NewSecond;
                 Console.WriteLine("Result: " + Input + " = " + result);
             }
 

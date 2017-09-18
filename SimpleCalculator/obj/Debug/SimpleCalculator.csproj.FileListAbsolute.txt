@@ -1,0 +1,13 @@
+C:\Users\eahscs\Documents\GitHub\GettingStarted\ConsoleApp2\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\GettingStarted\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\eahscs\Documents\GitHub\GettingStarted\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\eahscs\Documents\GitHub\GettingStarted\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\eahscs\Documents\GitHub\GettingStarted\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\User\Documents\GitHub\GettingStarted\SimpleCalculator\bin\Debug\ConsoleApp2.exe.config
+C:\Users\User\Documents\GitHub\GettingStarted\SimpleCalculator\bin\Debug\ConsoleApp2.exe
+C:\Users\User\Documents\GitHub\GettingStarted\SimpleCalculator\bin\Debug\ConsoleApp2.pdb
+C:\Users\User\Documents\GitHub\GettingStarted\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\GettingStarted\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\GettingStarted\SimpleCalculator\obj\Debug\ConsoleApp2.exe
+C:\Users\User\Documents\GitHub\GettingStarted\SimpleCalculator\obj\Debug\ConsoleApp2.pdb
