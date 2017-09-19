@@ -1,0 +1,7 @@
+C:\Users\User\Documents\GitHub\GettingStarted\FavoriteFood\DecimalToBinary\bin\Debug\DecimalToBinary.exe.config
+C:\Users\User\Documents\GitHub\GettingStarted\FavoriteFood\DecimalToBinary\bin\Debug\DecimalToBinary.exe
+C:\Users\User\Documents\GitHub\GettingStarted\FavoriteFood\DecimalToBinary\bin\Debug\DecimalToBinary.pdb
+C:\Users\User\Documents\GitHub\GettingStarted\FavoriteFood\DecimalToBinary\obj\Debug\DecimalToBinary.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\GettingStarted\FavoriteFood\DecimalToBinary\obj\Debug\DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\GettingStarted\FavoriteFood\DecimalToBinary\obj\Debug\DecimalToBinary.exe
+C:\Users\User\Documents\GitHub\GettingStarted\FavoriteFood\DecimalToBinary\obj\Debug\DecimalToBinary.pdb
