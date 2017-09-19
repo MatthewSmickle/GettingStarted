@@ -5,3 +5,10 @@ C:\Users\User\Documents\GitHub\GettingStarted\FavoriteFood\PrimeSolver\obj\Debug
 C:\Users\User\Documents\GitHub\GettingStarted\FavoriteFood\PrimeSolver\obj\Debug\PrimeSolver.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\GitHub\GettingStarted\FavoriteFood\PrimeSolver\obj\Debug\PrimeSolver.exe
 C:\Users\User\Documents\GitHub\GettingStarted\FavoriteFood\PrimeSolver\obj\Debug\PrimeSolver.pdb
+C:\Users\User\Documents\GitHub\GettingStarted\PrimeSolver\bin\Debug\PrimeSolver.exe.config
+C:\Users\User\Documents\GitHub\GettingStarted\PrimeSolver\bin\Debug\PrimeSolver.exe
+C:\Users\User\Documents\GitHub\GettingStarted\PrimeSolver\bin\Debug\PrimeSolver.pdb
+C:\Users\User\Documents\GitHub\GettingStarted\PrimeSolver\obj\Debug\PrimeSolver.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\GettingStarted\PrimeSolver\obj\Debug\PrimeSolver.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\GettingStarted\PrimeSolver\obj\Debug\PrimeSolver.exe
+C:\Users\User\Documents\GitHub\GettingStarted\PrimeSolver\obj\Debug\PrimeSolver.pdb
