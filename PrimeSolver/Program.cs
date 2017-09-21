@@ -12,48 +12,28 @@ namespace PrimeSolver
         {
             Console.WriteLine("Transformers . . Roll out!");
             int PrimeCounter = 0;
-            Boolean primeNum = true;
-            for(int i = 0; PrimeCounter <= 1000; i++)
+            int prime = 0;
+            List<int> primes = new List<int>(new int[]{ 2, 3, 5 });
+            for(int i = 6; PrimeCounter <= 1000; i++)
             {
-                primeNum = true;
-               if(i == 2  || i == 3 || i== 5 || i == 7)
+                for (int c = 0; c < primes.Count; c++)
                 {
-                    PrimeCounter++;
+
+                    if (i % primes[c] == 0)
+                    {
+                        prime++;
+                    }
+
+                }
+                if(prime > 0)
+                {
+                    primes.Add(i);
                     Console.WriteLine(i);
-                }
-
-                if ( i % 2 == 0)
-                {
-                    primeNum = false;
-                }
-
-                if ( i % 3 == 0)
-                {
-                    primeNum = false;
-                }
-
-                if ( i % 5 == 0)
-                {
-                    primeNum = false;
-                }
-
-                if (i % 7 == 0)
-                {
-                    primeNum = false;
-                }
-
-                if (primeNum == true)
-                {
-                    Console.WriteLine(PrimeCounter +"     " +i);
                     PrimeCounter++;
                 }
-
-               
             }
-
-
-            
             Console.WriteLine("Done.");
         }
+
     }
 }
